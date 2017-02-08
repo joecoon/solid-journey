@@ -1,2 +1,2 @@
 # solid-journey
-Just to get started
+Just to get started in coding, etc.
